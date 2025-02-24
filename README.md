@@ -36,6 +36,7 @@ COMMUNITY-FE/
 │   └── images/
 │
 ├── pages/  # 개별 페이지 HTML 파일
+│   └── data/ # 로컬 json 파일
 │
 ├── scripts/  # JavaScript 파일
 │   └── components/
