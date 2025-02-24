@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# ASSIGN-week4-community-fe
-3주차 과제에 event 처리, fetch 적용한 코드입니다.
-=======
 # 커뮤니티 웹 애플리케이션
+
+3주차 과제에 event 처리, fetch 적용한 코드입니다.
+
 **주제** 순수 Vanilla JS로 만든 아무 말 대잔치 커뮤니티<br>
 **Skills** HTML5, CSS3, Vailla JS
 
@@ -47,4 +46,3 @@ COMMUNITY-FE/
 
 ## 화면 구성
 <img width="1011" alt="스크린샷 2025-02-18 오후 9 50 32" src="https://github.com/user-attachments/assets/b8ac8623-562f-49d0-a52b-3d4cbe22b473" />
->>>>>>> 9d8067b (Feat: week4 community - event, fetch)
